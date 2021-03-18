@@ -7,7 +7,7 @@ Create two style of comments
 
 Single Line Example
 
->   /// C - By 3/18/2021 10:32:35 AM, User, CodeCommentAddin
+>      /// C - By 3/18/2021 10:32:35 AM, User, CodeCommentAddin
 
 Double Line Example
 
