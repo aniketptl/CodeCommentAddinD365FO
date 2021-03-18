@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCommentAddin", "CodeCommentAddin\CodeCommentAddin.csproj", "{045CE72C-8724-46CE-BA09-6981F577A528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{045CE72C-8724-46CE-BA09-6981F577A528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045CE72C-8724-46CE-BA09-6981F577A528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045CE72C-8724-46CE-BA09-6981F577A528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045CE72C-8724-46CE-BA09-6981F577A528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {654D03BB-0007-427D-91BD-607F0FE4E065}
+	EndGlobalSection
+EndGlobal
